@@ -1,0 +1,6 @@
+telah menyelesaikan percobaan pertama
+Memperbaiki percobaan pertama
+memperbaiko IO.java
+Memperbaiki IO.java lagi
+Memperbaiki IO
+perubahan dari console ke scanner
